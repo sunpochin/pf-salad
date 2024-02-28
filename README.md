@@ -6,7 +6,7 @@ A project for interview
 
 ### DEMO site
 
-https://digisalad-test.vercel.app/
+https://pf-salad-pac.vercel.app/
 
 ### TECH stack
 
