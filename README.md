@@ -2,7 +2,7 @@
 
 ## Description
 
-應徵 Digi Salad 公司的前測作業，讓我練習了 AOS 套件做滾動視差效果
+應徵 DigiSalad 公司的前測作業，讓我練習了 AOS 套件做滾動視差效果
 
 ### DEMO site
 
