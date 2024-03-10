@@ -10,14 +10,10 @@
       </picture>
       <div class="col-avatar" data-aos="fade-up">
         <picture>
-          <img
-            src="@/assets/images/tonyng.jpg"
-            alt="TONY NG - DIGISALAD創辦人＆創意總監"
-            loading="lazy"
-          />
+          <img src="@/assets/images/me_1.jpg" alt="me, 待業中" loading="lazy" />
         </picture>
-        <h3>Tony Ng</h3>
-        <em>Founder & Creative Director</em>
+        <h3>Patrick Sun</h3>
+        <em>OPEN TO HIRE</em>
       </div>
       <div class="col-quote" data-aos="fade-up" :data-aos-delay="300">
         A great digital work isn’t about designing beautiful pages purely. It is about context - how

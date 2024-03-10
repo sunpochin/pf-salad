@@ -30,12 +30,6 @@ export default {
           <h1>Digi Salad</h1>
         </a>
         <div>
-          <a
-            href="#"
-            class="d-none d-md-inline-block btn me-9 px-4 py-2 bg-primary-linear text-white fs-normal2 fw-bold ls-1 rounded-pill hover-scale transition-sm"
-          >
-            START YOUR PROJECT
-          </a>
           <button
             type="button"
             class="btn p-2 border-0 position-relative hover-scale transition-sm"
